@@ -1,57 +1,57 @@
 {
   "semantics": [
     {
-      "label": "Description",
-      "description": "Description of the export page.",
-      "default": "On this page you can choose to export your text, goals and goals assessments."
+      "label": "Описание",
+      "description": "Описание страницы экспорта.",
+      "default": "На этой странице вы можете экспортировать свой текст, цели и их оценки."
     },
     {
-      "label": "Create document button label",
-      "description": "Text that will be displayed on the \"Create document\"-button.",
-      "default": "Create document"
+      "label": "Метка кнопки для создания документа",
+      "description": "Текст, который будет отображен на кнопке \"Создать документ\".",
+      "default": "Создать документ"
     },
     {
-      "label": "Submit text button",
-      "description": "Text that will be displayed on the \"Submit\"-button.",
-      "default": "Submit"
+      "label": "Текст кнопки для отправления",
+      "description": "Текст, который будет отображен на кнопке \"Отправить\".",
+      "default": "Оправить"
     },
     {
-      "label": "Submit success label",
-      "default": "Your report was submitted successfully!"
+      "label": "Метка для успешной отправки",
+      "default": "Ваш отчёт успешно отправлен!"
     },
     {
-      "label": "Select all exportable text button label",
-      "description": "Text that will be displayed on the \"Select all text\"-button.",
-      "default": "Select"
+      "label": "Метка кнопки для выбора всего экспортируемого текста Select all exportable text button label",
+      "description": "Текст, который будет отображен на кнопке \"Выбрать весь текст\".",
+      "default": "Выбрать весь текст"
     },
     {
-      "label": "Export text button label",
-      "description": "Text that will be displayed on the \"Export text\"-button.",
-      "default": "Export"
+      "label": "Метка кнопки для экспорта текста",
+      "description": "Текст, который будет отображен на кнопке \"Экспорт текста\".",
+      "default": "Экспорт текста"
     },
     {
-      "label": "Label for help text",
-      "description": "Label for showing additional helpful information to the user.",
-      "default": "More information"
+      "label": "Метка для текста справки",
+      "description": "Метка для отображения дополнительной полезной информации пользователю.",
+      "default": "Дополнительная информация"
     },
     {
-      "label": "Fill in additional help information",
-      "description": "Here you can fill in additional helpful information for the user."
+      "label": "Заполните дополнительную справочную информацию",
+      "description": "Здесь вы можете ввести дополнительную полезную информацию для пользователя."
     },
     {
-      "label": "Required input missing text",
-      "description": "An error message which will be displayed if one or more required input fields have not been filled. @pages will be replaced with the titles of affected pages.",
-      "default": "The following pages contain required fields that need to be filled in order to review or submit this document: @pages"
+      "label": "Требуется ввести пропущенный текст",
+      "description": "Сообщение об ошибке, которое будет отображено, если одно или несколько обязательных полей ввода не заполнены. @pages будет заменено заголовками затронутых страниц.",
+      "default": "Следующие страницы содержат обязательные поля, которые необходимо заполнить перед просмотром или отправкой этого документа: @pages"
     },
     {
-      "label": "Tooltip text for exit document button",
-      "description": "Tooltip text when hovering over the exit (X-) button",
-      "default": "Exit"
+      "label": "Текст всплывающей подсказки для кнопки выхода из документа",
+      "description": "Текст всплывающей подсказки при наведении курсора на кнопку выхода (X-)",
+      "default": "Выход"
     },
     {
-      "label": "Aria-label for exit document button",
-      "description": "Aria label to be read when reading the exit (X-) button",
-      "default": "Exit"
+      "label": "Атрибут aria-label для кнопки выхода из документа",
+      "description": "Атрибут aria-label, который должен быть прочитан при считывании кнопки выхода (X-)",
+      "default": "Выход"
     }
   ]
 }
